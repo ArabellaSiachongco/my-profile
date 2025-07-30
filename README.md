@@ -1,4 +1,5 @@
 ## ✨ Hi, I'm Arabella ✨
+I'm always exploring new ways to blend technology and art, especially in 3D and web animation.  
 
 💻 Web Developer <br/>
 🧠 Bachelor of Science and Information Technology <br/>
@@ -24,7 +25,8 @@
 ![👑Leadership Skills](https://img.shields.io/badge/Leadership%20Skills-%23E91E63.svg?style=for-the-badge&logo=crown&logoColor=white) &nbsp;
 <hr/>
 
-# [Favorite Project: Karapatan Ko](https://karapatan-ko-finale-7j95.vercel.app/)
+# Favorite Project: 
+### [Karapatan Ko](https://karapatan-ko-finale-7j95.vercel.app/)
 A capstone project built using **React** and **JavaScript**: a full-featured lawyer scheduling system with integrated AI capabilities:
 
 📅 **Scheduling**: Book appointments with lawyers <br/>
@@ -34,7 +36,12 @@ A capstone project built using **React** and **JavaScript**: a full-featured law
 📄 **Downloadable Forms**: Easily access legal forms <br/>
 ✨ **ThreeJS Animation**: Enjoy interactive star animations <br/>
 
-<img width="1323" height="1004" alt="manual" src="https://github.com/user-attachments/assets/d07091a5-f53e-4195-865e-ec19dce225ee" />
+<img width="1323" height="1004" alt="manual" src="https://github.com/user-attachments/assets/d07091a5-f53e-4195-865e-ec19dce225ee" /> <br/>
+
+### [SiaBell Portfolio](https://sia-bell-portfolio.vercel.app/)
+Deep dive into my interactive portfolio, built with [Three.js](https://threejs.org/). A 3D boat sails through my work and skills.  
+<img width="1880" height="937" alt="image" src="https://github.com/user-attachments/assets/ad992bd7-26af-4e63-b44f-be29fec8760c" />
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArabellaSiachongco&theme=monokai&hide_border=false&include_all_commits=true&count_private=false) &nbsp;
