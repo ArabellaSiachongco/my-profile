@@ -25,7 +25,6 @@
 <hr/>
 
 # [Favorite Project: Karapatan Ko](https://karapatan-ko-finale-7j95.vercel.app/)
-
 A capstone project built using **React** and **JavaScript**: a full-featured lawyer scheduling system with integrated AI capabilities:
 
 📅 **Scheduling**: Book appointments with lawyers <br/>
@@ -35,6 +34,7 @@ A capstone project built using **React** and **JavaScript**: a full-featured law
 📄 **Downloadable Forms**: Easily access legal forms <br/>
 ✨ **ThreeJS Animation**: Enjoy interactive star animations <br/>
 
+<img width="1323" height="1004" alt="manual" src="https://github.com/user-attachments/assets/d07091a5-f53e-4195-865e-ec19dce225ee" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArabellaSiachongco&theme=monokai&hide_border=false&include_all_commits=true&count_private=false) &nbsp;
